@@ -59,6 +59,8 @@ Sniper Bot Features:
 
 
 Requirements:
+
+
 📝 Platform: Python
 
 
