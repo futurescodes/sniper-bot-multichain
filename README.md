@@ -6,9 +6,13 @@ This is Multi-Chain Sniper bot with custom node features! You can buy tokens wit
 Features:
 
 ✅ Fully Editable Python Source Code
+
 ✅ Pancakeswap, Uniswap, Traderjoe Coins Support
+
 ✅ Fully Automated Multi-Chain Sniper Bot
+
 ✅ Fully Detailed PDF Document
+
 
 Sniper Bot Features:
 
