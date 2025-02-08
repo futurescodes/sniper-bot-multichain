@@ -59,10 +59,12 @@ Sniper Bot Features:
 
 
 Requirements:
-📝 Platform: Javascript
+📝 Platform: Python
+
 
 
 Installation Steps:
+
 1-) Creating Source Code of Multi-Chain Sniper Bot
 
 2-) Setting for Multi-Chain Sniper Bot
